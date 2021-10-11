@@ -14,6 +14,6 @@ public class Story {
         System.out.println("What is their job?");
         String answer2 = scanner.nextLine();
 
-        System.out.println("Here is story: " + "Once upon a time there was " +answer1 + " sawho was a " +answer2 );
+        System.out.println("Here is story: " + "Once upon a time there was " +answer1 + ", who was " +answer2+"." );
     }
 }

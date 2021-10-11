@@ -12,13 +12,11 @@ public class Conversation {
         System.out.println("Oh, how interesting. Tell me more!");
         String second  = scanner.nextLine();
         System.out.println("Thanks for sharing!");
-        String third = scanner.nextLine();
-
-        System.out.println("You wrote");
-        System.out.println(first);
-        System.out.println(second);
-        System.out.println(third);
-
-
+//        String third = scanner.nextLine();
+//
+//        System.out.println("You wrote");
+//        System.out.println(first);
+//        System.out.println(second);
+//        System.out.println(third);
     }
 }

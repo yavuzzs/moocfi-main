@@ -4,14 +4,14 @@ public class VariousVariables {
     public static void main(String[] args) {
         // MODIFY THESE:
 
-        int numberOfChicken = 3;
-        double baconWeight = 5.5;
-        String tractor = "None!";
+        int numberOfChicken = 9000;
+        double baconWeight = 0.1;
+        String tractor = "Zetor";
 
         // DON'T MODIFY THESE:
         System.out.println("Chicken:");
         System.out.println(numberOfChicken);
-        System.out.println("Bacon (kg):");
+        System.out.println("Bacon (kg):"  );
         System.out.println(baconWeight);
         System.out.println("Tractor:");
         System.out.println(tractor);
